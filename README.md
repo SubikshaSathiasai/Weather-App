@@ -35,7 +35,7 @@ Follow these steps to get started with Weather App:
 
 ## Screenshots
 
-![Screenshot 2023-09-14 015803](https://github.com/SubikshaSathiasai/Weather-App/assets/88978373/e1cff887-2523-485d-988f-2d42fa25e0ce)
+![Screenshot 2023-09-14 021537](https://github.com/SubikshaSathiasai/Weather-App/assets/88978373/b6792cdf-391c-4bf3-a20c-44dd4b539b3e)
 ![Screenshot 2023-09-14 015914](https://github.com/SubikshaSathiasai/Weather-App/assets/88978373/3d4d2a45-a3ac-4a9c-80c6-adb4870ac0a9)
 ![Screenshot 2023-09-14 015958](https://github.com/SubikshaSathiasai/Weather-App/assets/88978373/05d4c0c4-4ab3-47ee-8824-f833c6eb2d21)
 
